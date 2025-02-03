@@ -33,9 +33,3 @@ Assume the S3 bucket has the following structure:
 - AWS account with an S3 bucket created.
 - Python 3 installed on the server.
 - Virtual environment setup (`python3 -m venv myenv`).
-
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/s3-bucket-http-service.git
-   cd s3-bucket-http-service
